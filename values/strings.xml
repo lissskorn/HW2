@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW-2</string>
+    <string name="name">Название растения</string>
+    <string name="variety">Разновидность</string>
+    <string name="type">Растение тепличное?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="add">Добавить</string>
+    <string name="next">Далее</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+    <string name="incorrect_value">Вы ввели неккоректные значения</string>
+    <string name="insert_error">При добавлени произошла ошибка</string>
+</resources>
